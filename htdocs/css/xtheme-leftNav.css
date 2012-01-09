@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navigation-item a, .navigation-item a:visited { 
+	color:#333333;
+	text-decoration:none;
+	padding:5px;
+}
+
+.navigation-item a:hover {
+	color:#999999;
+	text-decoration:none;
+	padding:5px;
+}

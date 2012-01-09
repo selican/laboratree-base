@@ -1,0 +1,164 @@
+#address__addaddress {
+	text-align: center;
+}
+
+#address__addaddress .x-tab-strip-text {
+	font-weight: bold;
+}
+
+#phone__addphone {
+	text-align: center;
+}
+
+#phone__addphone .x-tab-strip-text {
+	font-weight: bold;
+}
+
+#url__addurl {
+	text-align: center;
+}
+
+#url__addurl .x-tab-strip-text {
+	font-weight: bold;
+}
+
+#association__addassociation {
+	text-align: center;
+}
+
+#association__addassociation .x-tab-strip-text {
+	font-weight: bold;
+}
+
+#award__addaward {
+	text-align: center;
+}
+
+#award__addaward .x-tab-strip-text {
+	font-weight: bold;
+}
+
+/*!
+ * Ext JS Library 3.1.1
+ * Copyright(c) 2006-2010 Ext JS, LLC
+ * licensing@extjs.com
+ * http://www.extjs.com/license
+ */
+/*
+ * FileUploadField component styles
+ */
+.x-form-file-wrap {
+	position: relative;
+	height: 22px;
+}
+
+.x-form-file-wrap .x-form-file {
+	position: absolute;
+	right: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity: 0);
+	opacity: 0;
+	z-index: 2;
+	height: 22px;
+}
+
+.x-form-file-wrap .x-form-file-btn {
+	position: absolute;
+	right: 0;
+	z-index: 1;
+}
+
+.x-form-file-wrap .x-form-file-text {
+	position: absolute;
+	left: 0;
+	z-index: 3;
+	color: #777;
+}
+
+.x-panel-body .middle {
+	text-align: center;
+	height: 100%;
+	padding-top: 85px;
+}
+
+.x-portal .x-panel-dd-spacer {
+	margin-bottom: 10px;
+}
+
+.x-portlet {
+	margin-bottom: 10px;
+}
+
+.x-portlet .x-panel-ml {
+	padding-left: 2px;
+}
+
+.x-portlet .x-panel-mr {
+	padding-right: 2px;
+}
+
+.x-portlet .x-panel-bl {
+	padding-left: 2px;
+}
+
+.x-portlet .x-panel-br {
+	padding-right: 2px;
+}
+
+.x-portlet .x-panel-body {
+	background: white;
+}
+
+.x-portlet .x-panel-mc {
+	padding-top: 2px;
+}
+
+.x-portlet .x-panel-bc .x-panel-footer {
+	padding-bottom: 2px;
+}
+
+.x-portlet .x-panel-nofooter .x-panel-bc {
+	height: 2px;
+}
+
+#invite .section {
+	padding-bottom: 10px;
+}
+
+/* Tag Cloud CSS */
+.x-cloud  {
+	min-height: 200px;
+	padding: 5px;
+	text-align: center;
+	/*word-wrap: break-word;*/
+	/*line-height: 1.5em;*/
+}
+
+.x-cloud-item  {
+	margin: 0 0.2em;
+	display: inline;
+}
+
+.x-cloud-item a  {
+	padding: 5px;
+}
+
+.x-cloud-item a:hover  {
+	color: #002A85;
+}
+
+.x-cloud-item-selected a  {
+	background-color: #316AC5;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.x-cloud-item-selected a:hover  {
+	cursor: default;
+	color: #FFF;
+}
+.x-cloud-item.smallest { font-size: 0.90em; color: #000000; }
+.x-cloud-item.small { font-size: 1.05em; color: #062030; }
+.x-cloud-item.medium { font-size: 1.20em; color: #0D4161; }
+.x-cloud-item.large { font-size: 1.35em; color: #136192; }
+.x-cloud-item.largest { font-size: 1.50em; color: #1A82C3; } 

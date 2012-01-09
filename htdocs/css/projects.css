@@ -1,0 +1,122 @@
+#address__addaddress {
+	text-align: center;
+}
+
+#address__addaddress .x-tab-strip-text {
+	font-weight: bold;
+}
+
+#phone__addphone {
+	text-align: center;
+}
+
+#phone__addphone .x-tab-strip-text {
+	font-weight: bold;
+}
+
+#url__addurl {
+	text-align: center;
+}
+
+#url__addurl .x-tab-strip-text {
+	font-weight: bold;
+}
+
+#association__addassociation {
+	text-align: center;
+}
+
+#association__addassociation .x-tab-strip-text {
+	font-weight: bold;
+}
+
+#award__addaward {
+	text-align: center;
+}
+
+#award__addaward .x-tab-strip-text {
+	font-weight: bold;
+}
+
+/*!
+ * Ext JS Library 3.1.1
+ * Copyright(c) 2006-2010 Ext JS, LLC
+ * licensing@extjs.com
+ * http://www.extjs.com/license
+ */
+/*
+ * FileUploadField component styles
+ */
+.x-form-file-wrap {
+	position: relative;
+	height: 22px;
+}
+
+.x-form-file-wrap .x-form-file {
+	position: absolute;
+	right: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity: 0);
+	opacity: 0;
+	z-index: 2;
+	height: 22px;
+}
+
+.x-form-file-wrap .x-form-file-btn {
+	position: absolute;
+	right: 0;
+	z-index: 1;
+}
+
+.x-form-file-wrap .x-form-file-text {
+	position: absolute;
+	left: 0;
+	z-index: 3;
+	color: #777;
+}
+
+.x-panel-body .middle {
+	text-align: center;
+	height: 100%;
+	padding-top: 85px;
+}
+
+.x-portal .x-panel-dd-spacer {
+	margin-bottom: 10px;
+}
+
+.x-portlet {
+	margin-bottom: 10px;
+}
+
+.x-portlet .x-panel-ml {
+	padding-left: 2px;
+}
+
+.x-portlet .x-panel-mr {
+	padding-right: 2px;
+}
+
+.x-portlet .x-panel-bl {
+	padding-left: 2px;
+}
+
+.x-portlet .x-panel-br {
+	padding-right: 2px;
+}
+
+.x-portlet .x-panel-body {
+	background: white;
+}
+
+.x-portlet .x-panel-mc {
+	padding-top: 2px;
+}
+
+.x-portlet .x-panel-bc .x-panel-footer {
+	padding-bottom: 2px;
+}
+
+.x-portlet .x-panel-nofooter .x-panel-bc {
+	height: 2px;
+}

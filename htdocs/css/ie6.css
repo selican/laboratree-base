@@ -1,0 +1,111 @@
+#user_right, #group_right {
+	zoom: 1 !important;
+}
+
+.box_content {
+	zoom: 1 !important;
+}
+
+.bl_corner, .tl_corner, .tr_corner, .br_corner {
+	display: none;
+}
+
+.meta_bl_corner, .meta_tl_corner, .meta_tr_corner, .meta_br_corner {
+	display: none;
+}
+
+#user_meta, #group_meta {
+	width: 100%;
+	display: inline;
+}
+
+#user_right, #group_right {
+	zoom: 1;
+}
+
+.colleagues {
+	zoom: 1;
+}
+
+.groups {
+	zoom: 1;
+}
+
+.meta_header {
+	zoom: 1;
+}
+
+.offline {
+	zoom: 1;
+}
+
+.online {
+	zoom: 1;
+}
+.doc_type {
+	zoom: 1;
+}
+
+.mainform {
+	background: #F7F7F7;
+	padding: 5px;
+	margin-bottom:5px;
+	min-height: auto;
+	min-width: auto;
+
+}
+#user_edit_personal, #user_edit_contact, #user_edit_history, #user_edit_privacy, #user_edit_interests { 
+	background: #F7F7F7;
+	padding: 5px;
+	margin-right: 
+	min-height: auto;
+	min-width: auto;
+	
+}
+#user_edit_picture, #user_edit_colleagues, #user_edit_groups, #user_edit_projects, #user_edit_discussion {
+	border: 3px solid #BFBFBF;
+	background: #F7F7F7;
+	padding: 5px;
+	min-height: auto;
+	min-width: auto;
+
+}
+#user_create_information, #user_create_picture, #user_create_members {
+	border: 1px solid #666666;
+	background: #F7F7F7;
+	padding: 5px;
+	min-height: auto;
+	min-width: auto;
+
+}
+#group_create_information, #group_create_picture, #group_create_users {
+	border: 1px solid #666666;
+	background: #F7F7F7;
+	padding: 5px;
+	min-height: auto;
+	min-width: auto;
+}
+table.register, table.login {
+	border: 1px solid #666666;
+	background: #F7F7F7;
+	padding: 5px;
+	min-height: auto; 
+	min-width: auto;
+}
+#group_edit_information, #group_edit_contact, #group_edit_history, #group_edit_interests, #group_edit_privacy { 
+	background: #F7F7F7;
+	padding: 5px;
+	min-height: auto;
+	min-width: auto;
+}
+
+#group_edit_picture, #group_edit_administrators, #group_edit_members, #group_edit_projects, #group_edit_messages, #group_edit_discussion {
+	border: 3px solid #BFBFBF;
+	background: #F7F7F7;
+	padding: 5px;
+	min-height: auto;
+}
+
+.feed_holder {
+	width:auto;
+}
